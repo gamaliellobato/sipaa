@@ -40,7 +40,7 @@ namespace Propuesta
                 
                 Acceso acc = new Acceso();
                 acc.Show();
-                this.Hide();
+                //this.Hide();
             }
 
             

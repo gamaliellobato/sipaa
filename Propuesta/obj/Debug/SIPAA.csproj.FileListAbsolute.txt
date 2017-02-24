@@ -10,3 +10,4 @@ C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\
 C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.exe
 C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.pdb
 C:\Users\globatos\Documents\Visual Studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.Splash.resources
+C:\Users\globatos\Documents\Visual Studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.FormularioAccesoUsuario.resources
