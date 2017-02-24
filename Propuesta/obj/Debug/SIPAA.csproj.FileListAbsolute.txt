@@ -10,4 +10,18 @@ C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\
 C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.exe
 C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.pdb
 C:\Users\globatos\Documents\Visual Studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.Splash.resources
+<<<<<<< HEAD
 C:\Users\globatos\Documents\Visual Studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.FormularioAccesoUsuario.resources
+=======
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\bin\Debug\Propuesta.exe.config
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\Propuesta.exe
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\Propuesta.pdb
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\bin\Debug\Propuesta.exe
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\bin\Debug\Propuesta.pdb
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\SIPAA.csprojResolveAssemblyReference.cache
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\Propuesta.Dashboard.resources
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\Propuesta.Acceso.resources
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\Propuesta.Properties.Resources.resources
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\Propuesta.Splash.resources
+C:\Users\vjiturburuv\Documents\Visual Studio 2015\Projects_Git\Propuesta\obj\Debug\SIPAA.csproj.GenerateResource.Cache
+>>>>>>> bbd17d78ce878d639c2ed6b5d4a2a47dde93e7a4
