@@ -127,8 +127,8 @@
   <data name="ic_school_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_school_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ic_store_mall_directory_white_36dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawable-hdpi\ic_store_mall_directory_white_36dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ic_store_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\ic_store_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ic_fitness_center_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_fitness_center_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -136,8 +136,8 @@
   <data name="ic_account_circle_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_account_circle_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ic_store_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawable-hdpi\ic_store_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ic_attach_money_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\ic_attach_money_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ic_lock_blue_dark_18dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_lock_blue_dark_18dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -145,31 +145,46 @@
   <data name="ic_group_white_36dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_group_white_36dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ic_clear_white_18dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawable-hdpi\ic_clear_white_18dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ic_store_mall_directory_white_36dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\ic_store_mall_directory_white_36dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_keyboard_arrow_right_white_18dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-mdpi\ic_keyboard_arrow_right_white_18dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ic_account_circle_blue_dark_18dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_account_circle_blue_dark_18dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ic_power_settings_new_blue_dark_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-mdpi\ic_power_settings_new_blue_dark_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ic_group_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_group_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ic_shopping_basket_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawable-hdpi\ic_shopping_basket_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ic_attach_money_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawable-hdpi\ic_attach_money_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ic_group_white_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawable-hdpi\ic_group_white_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ic_clear_white_18dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\ic_clear_white_18dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ic_insert_chart_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_insert_chart_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ic_group_white_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\ic_group_white_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_shopping_basket_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\ic_shopping_basket_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_white_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-mdpi\ic_settings_white_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_settings_blue_light_48dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-mdpi\ic_settings_blue_light_48dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="ic_remove_white_18dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\drawable-hdpi\ic_remove_white_18dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\drawable-hdpi\logo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ic_home_white_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drawable-hdpi\ic_home_white_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

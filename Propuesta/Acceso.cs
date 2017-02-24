@@ -63,13 +63,19 @@ namespace Propuesta
             }
         }
 
+        private void btnMin_Click(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Minimized;
+        }
+
         private void btnCerrar_Click_1(object sender, EventArgs e)
         {
             DialogResult result = MessageBox.Show("¿Seguro que dese salir?", "Salir", MessageBoxButtons.YesNoCancel);
 
             if (result == DialogResult.Yes)
             {
-                this.Close();
+                Application.Exit();
+                
                 //Splash splash = new Splash();
                 //splash.Close();
             }
@@ -105,6 +111,18 @@ namespace Propuesta
         private void button3_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Minimized;
+        }
+
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+            Dashboard acc = new Dashboard();
+            acc.Show();
+            this.Hide();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

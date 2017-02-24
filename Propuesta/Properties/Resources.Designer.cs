@@ -153,6 +153,16 @@ namespace Propuesta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ic_home_white_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_home_white_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ic_important_devices_white_48dp {
             get {
                 object obj = ResourceManager.GetObject("ic_important_devices_white_48dp", resourceCulture);
@@ -173,9 +183,29 @@ namespace Propuesta.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ic_keyboard_arrow_right_white_18dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_keyboard_arrow_right_white_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap ic_lock_blue_dark_18dp {
             get {
                 object obj = ResourceManager.GetObject("ic_lock_blue_dark_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ic_power_settings_new_blue_dark_48dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_power_settings_new_blue_dark_48dp", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -196,6 +226,26 @@ namespace Propuesta.Properties {
         internal static System.Drawing.Bitmap ic_school_white_48dp {
             get {
                 object obj = ResourceManager.GetObject("ic_school_white_48dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ic_settings_blue_light_48dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_settings_blue_light_48dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap ic_settings_white_48dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_settings_white_48dp", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

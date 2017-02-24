@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace Propuesta
 {
+    
     public partial class Splash : Form
     {
+        public int iContador;
         public Splash()
         {
             InitializeComponent();
@@ -25,13 +27,16 @@ namespace Propuesta
         private void timer1_Tick(object sender, EventArgs e)
         {
 
-            int res=0;
+          
             
-            if (panel3.Width < 400)
+            if (panel3.Width < panel2.Width)
             {
-                panel3.Width = panel3.Width + 40;
-                res = (100 * panel3.Width) / 400;
-                lbCarga.Text = "Cargando SIPAA al " + res + "%";
+                int isuma = (panel1.Width / 100) * 5;
+
+                panel3.Width = panel3.Width + isuma;
+                iContador = iContador + (isuma / 4);
+                lbCarga.Text = iContador.ToString()+"%";
+
             }
             else
             {
@@ -44,6 +49,11 @@ namespace Propuesta
             }
 
             
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
