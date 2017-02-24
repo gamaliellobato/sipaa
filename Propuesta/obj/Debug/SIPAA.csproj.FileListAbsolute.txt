@@ -1,0 +1,12 @@
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\SIPAA.csprojResolveAssemblyReference.cache
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.Dashboard.resources
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.Properties.Resources.resources
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\SIPAA.csproj.GenerateResource.Cache
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\bin\Debug\Propuesta.exe.config
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\bin\Debug\Propuesta.exe
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\bin\Debug\Propuesta.pdb
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\bin\Debug\MaterialSkin.dll
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.Acceso.resources
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.exe
+C:\Users\globatos\documents\visual studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.pdb
+C:\Users\globatos\Documents\Visual Studio 2015\Projects\Propuesta\Propuesta\obj\Debug\Propuesta.Splash.resources
